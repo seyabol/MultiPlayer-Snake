@@ -1,0 +1,23 @@
+# Node
+backend/node_modules
+backend/npm-debug.log*
+
+# Env / secrets
+backend/.env
+frontend/.env
+**/service-account.json
+
+# Server local data
+backend/data
+
+# Python
+frontend/__pycache__/
+frontend/*.pyc
+frontend/.venv/
+
+# Local auth/session
+frontend/session.pkl
+frontend/users_local.json
+
+# OS
+.DS_Store
