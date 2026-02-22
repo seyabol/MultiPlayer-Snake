@@ -121,14 +121,17 @@ Edit `frontend/firebase_config.json`:
 ---
 ## Screenshots
 
+### Lobby
+![Lobby](./Screenshots/Scr-0.png)
+
 ### Gameplay
-![Gameplay](Screenshots\Scr-1.png)
+![Gameplay](./Screenshots/Scr-1.png)
 
 ### Backend (Server Logs)
-![Backend Logs](Screenshots\Scr-2.png)
+![Backend Logs](./Screenshots/Scr-2.png)
 
 ### Player Stats
-![Player Stats](Screenshots\Scr-3.png)
+![Player Stats](./Screenshots/Scr-3.png)
 
 ### Leaderboard
-![Leaderboard](Screenshots\Scr-4.png)
+![Leaderboard](./Screenshots/Scr-4.png)
